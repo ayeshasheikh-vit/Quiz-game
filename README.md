@@ -1,3 +1,5 @@
+# Quiz-game
+VITyarthi -Python Essentials Course Project
 # Quiz Game
 
 ## Overview of the Project
